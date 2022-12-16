@@ -6,7 +6,7 @@ QT -= gui
 CONFIG += qdbus
 
 # Input
-HEADERS += ping-common.h pong.h
+HEADERS += pong.h
 SOURCES += pong.cpp
 
 # install

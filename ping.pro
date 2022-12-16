@@ -6,7 +6,7 @@ QT -= gui
 CONFIG += qdbus
 
 # Input
-HEADERS += ping-common.h
+HEADERS +=
 SOURCES += ping.cpp
 
 # install
